@@ -13,7 +13,7 @@ This project implements a sophisticated SQL database agent system that leverages
 - **Comparison Framework**: Easily compare responses from different models for evaluation
 - **SQL Database Integration**: Built-in tools for querying SQL databases with natural language
 
-## Technologies Used
+## Libraries Used
 - **LangGraph**: For creating the execution flow graph and managing model states
 - **LangChain**: For LLM integration and SQL database toolkit functionality
 - **Large Language Models**:
